@@ -23,13 +23,11 @@ A Power Platform solution designed to allow employees to submit, track, and mana
 **Technologies Used**
 
 - Power Apps
-- Dataverse
 - Power Automate
 - Microsoft Teams
 
 **Key Features**
 
-- Responsive Canvas App
 - Request submission and tracking
 - Manager approval workflows
 - Automated notifications
@@ -44,7 +42,7 @@ The solution uses Power Apps as the user interface, Dataverse for application da
 ```text
 Power Apps
     ↓
-Dataverse
+SharePoint
     ↓
 Power Automate
     ↓
