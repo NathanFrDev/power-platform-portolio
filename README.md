@@ -37,7 +37,7 @@ A Power Platform solution designed to allow employees to submit, track, and mana
 
 ### Architecture
 
-The solution uses Power Apps as the user interface, Dataverse for application data, and Power Automate for workflow automation and notifications.
+The solution uses Power Apps as the user interface, SharePoint for application data, and Power Automate for workflow automation and notifications.
 
 ```text
 Power Apps
